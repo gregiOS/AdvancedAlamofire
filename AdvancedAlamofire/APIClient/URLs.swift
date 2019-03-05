@@ -9,5 +9,5 @@
 import Foundation
 
 struct URLs {
-    static let baseURL = "localhost"
+    static let baseURL = "https://api.github.com"
 }
